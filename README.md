@@ -15,7 +15,7 @@ This repository includes the reproducible source code for the Melbourne Datathon
 |-Holidays - holiday data folder
 ```
 
-## R Packages
+## R Libraries
 ``` r
 library(vroom)
 library(stringr)
