@@ -15,6 +15,21 @@ This repository includes the reproducible source code for the Melbourne Datathon
 |-Holidays - holiday data folder
 ```
 
+## R Packages
+``` r
+library(vroom)
+library(stringr)
+library(tsibble)
+library(tidyverse)
+library(feasts)
+library(fable)
+library(dplyr)
+library(lubridate)
+```
+
+
+## Overall Analysis
+
 Below are the generated figures used in this analysis. 
 
 ![energy_consum](images/energy_consumption.png)
@@ -23,3 +38,7 @@ Below are the generated figures used in this analysis.
 ![july_consume](images/july_consume.png)
 ![energy_temp](images/Energy_Temp.png)
 ![forecast_models](images/forecast_models.png)
+
+## License
+
+This package is free and open source software, licensed under GPL-3.
