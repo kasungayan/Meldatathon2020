@@ -4,7 +4,7 @@ This repository includes the reproducible source code for the Melbourne Datathon
 
 ## Directory Structure
 ```
-|-MelbourneDatathon2020-Solution.Rmd - PDF file for the solution
+|-MelbourneDatathon2020-Solution.pdf - PDF file for the solution
 |-MelbourneDatathon2020-Solution.Rmd - Rmarkdown file for the solution
 |-MelbourneDatathon2020-AdditionalAnalysis.pdf - additional analysis PDF format
 |-MelHack-AdditionalAnalysis.Rmd - source code for the analysis (including the additional analysis)
